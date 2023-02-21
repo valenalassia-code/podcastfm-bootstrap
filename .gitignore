@@ -4,3 +4,4 @@ build/css/app.css
 package.json
 package-lock.json
 gulpfile.js
+.DS_Store
